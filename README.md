@@ -15,4 +15,45 @@ I'm currently working on a project to build a scalable web application using ASP
 - ⚡ Fun fact: ...
 
 
-<div class="prose w-full break-words dark:prose-invert dark"><h1>Hi there! 👋</h1><p>I'm [Your Name], a .NET developer with [X] years of experience in developing applications using .NET technologies.</p><h2>💼 Professional Experience</h2><ul><li>[Current Company] - [Current Position] - [Current Duration]</li><li>[Previous Company 1] - [Previous Position 1] - [Duration]</li><li>[Previous Company 2] - [Previous Position 2] - [Duration]</li></ul><h2>🔭 Technical Skills</h2><ul><li>[C#]</li><li>[.NET Framework and .NET Core]</li><li>[ASP.NET Core]</li><li>[Entity Framework Core]</li><li>[SQL Server]</li><li>[Visual Studio]</li><li>[Azure]</li></ul><h2>📫 Contact Me</h2><ul><li>[LinkedIn]</li><li>[Email]</li></ul><h2>🌐 My Work</h2><ul><li>[Link to GitHub repository 1]</li><li>[Link to GitHub repository 2]</li><li>[Link to GitHub repository 3]</li></ul><h2>📝 Blog Posts</h2><ul><li>[Title of blog post 1](link to blog post 1)</li><li>[Title of blog post 2](link to blog post 2)</li><li>[Title of blog post 3](link to blog post 3)</li></ul><h2>🏆 Awards and Certifications</h2><ul><li>[Certification 1]</li><li>[Certification 2]</li><li>[Award 1]</li></ul><p>Feel free to customize this template to highlight your unique skills and experiences. Good luck!</p></div>
+<h1>Hi there! 👋</h1>
+<p>I'm Karomatullo, a .NET developer with 6 years of experience in developing applications using .NET
+    technologies.</p>
+<h2>💼 Professional Experience</h2>
+<ul>
+    <li>Eskhata Digital - Backend developer - 2020- now</li>
+    <li>OJSC Bank Eskhata - Web developer - 2019-2020</li>
+    <li>OJSC Bank Eskhata - Software developer - 2017-2019</li>
+</ul>
+<h2>🔭 Technical Skills</h2>
+<ul>
+    <li>[C#]</li>
+    <li>[.NET Framework and .NET Core]</li>
+    <li>[ASP.NET Core]</li>
+    <li>[Entity Framework Core]</li>
+    <li>[SQL Server]</li>
+    <li>[Visual Studio]</li>
+    <li>[Azure]</li>
+</ul>
+<h2>📫 Contact Me</h2>
+<ul>
+    <li>[LinkedIn]</li>
+    <li>[Email]</li>
+</ul>
+<h2>🌐 My Work</h2>
+<ul>
+    <li>[Link to GitHub repository 1]</li>
+    <li>[Link to GitHub repository 2]</li>
+    <li>[Link to GitHub repository 3]</li>
+</ul>
+<h2>📝 Blog Posts</h2>
+<ul>
+    <li>[Title of blog post 1](link to blog post 1)</li>
+    <li>[Title of blog post 2](link to blog post 2)</li>
+    <li>[Title of blog post 3](link to blog post 3)</li>
+</ul>
+<h2>🏆 Awards and Certifications</h2>
+<ul>
+    <li>[Certification 1]</li>
+    <li>[Certification 2]</li>
+    <li>[Award 1]</li>
+</ul>
